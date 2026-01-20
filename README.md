@@ -1,6 +1,13 @@
 # 📊 Proyecto 7: Análisis Interactivo de Anuncios de Venta de Coches (Streamlit App)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://project7-r80d.onrender.com/)
+<div align="center">
+  <a href="https://project7-r80d.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀_Abrir_App_en_Vivo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Ver App Online">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="../README.md">
+    <img src="https://img.shields.io/badge/🏠_Volver_al_Menú_Principal-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Volver al Home">
+  </a>
+</div>
 
 ---
 
